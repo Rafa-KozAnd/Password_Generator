@@ -13,11 +13,11 @@
 
 - PrintScreen: 
 <div>
-  <img align="center" height="150" widht="150" src="/Print/Screen.jpg" />
+  <img align="center" height="400" widht="400" src="/Print/Screen.jpg" />
 </div><br>
 
 - Example:
 <div>
-  <img align="center" height="150" widht="150" src="/Print/Test.jpg" />
-  <img align="center" height="150" widht="150" src="/Print/Format.jpg" />
+  <img align="center" height="300" widht="300" src="/Print/Test.jpg" />
+  <img align="center" height="300" widht="300" src="/Print/Format.jpg" />
 </div><br>
