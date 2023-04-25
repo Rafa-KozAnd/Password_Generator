@@ -1,5 +1,3 @@
-# Password Generator
-
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafa-KozAnd/Password_Generator">
@@ -8,6 +6,8 @@
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Password_Generator">
   <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Password_Generator">
 </p>
+
+# Password Generator
 
 - Project Name: 'Password_Generator';
 - Languages: Python;
